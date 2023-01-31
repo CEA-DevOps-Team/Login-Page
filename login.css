@@ -33,7 +33,7 @@ img{
   font-family: 'Lobster';
 }
 .center form{
-  padding: 0 40px;
+  padding: 0 15px;
   box-sizing: border-box;
 }
 form .txt_field{
@@ -57,7 +57,7 @@ form .txt_field{
 
 .pass{
   margin: 10px 0 20px 5px;
-  color: #a6a6a6;
+  color: #bbcbd8;
   cursor: pointer;
 }
 .pass:hover{
@@ -83,7 +83,7 @@ input[type="submit"]:hover{
 .signup_link{
   margin-left: 0px 0px;
   text-align: center;
-  font-size: 14px;
+  font-size: 17px;
   color: #030605;
 }
 .signup_link a{
